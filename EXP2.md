@@ -59,7 +59,8 @@ else:
 ```
 ### Output:
 
-![exp3 output](https://github.com/user-attachments/assets/b73de35e-ba30-48ec-abee-47a2970013e6)
+![exp2 output](https://github.com/user-attachments/assets/e6fe4dda-8922-4421-ad2e-4adf84071feb)
+
 
 ### Result:
 Thus, the python program for matrix multiplication is implemented and the causes for its failure is introspected successfully.
