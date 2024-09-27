@@ -39,19 +39,9 @@ else:
         print("The given string is not a palindrome")
 ```
 
-
-
-
-
-
-
-
-
-
 ### Output:
 
-
-
+![exp6 output](https://github.com/user-attachments/assets/4d055ed1-1404-42d9-8e98-97e4488aa16e)
 
 
 ### Result:
